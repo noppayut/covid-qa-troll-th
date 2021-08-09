@@ -1,0 +1,7 @@
+numpy
+sentencepiece
+torch
+transformers
+streamlit
+rank_bm25
+pythainlp
